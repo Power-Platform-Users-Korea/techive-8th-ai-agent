@@ -1,0 +1,4 @@
+source/raw/
+*.png.json
+__pycache__/
+source/cutouts/*-trim.png
